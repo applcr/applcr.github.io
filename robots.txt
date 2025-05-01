@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://raw.githubusercontent.com/applcr/applcr.github.io/refs/heads/prod/uploads/2025/5/1/sitemap.txt
